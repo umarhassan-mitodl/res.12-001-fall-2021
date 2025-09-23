@@ -1,0 +1,13 @@
+leftnav:
+- identifier: 9e6e9e57-14cd-4a8c-a078-aa63182ef6eb
+  name: 'Essay 1: Dimensional Analysis of Models and Data Sets'
+  pageRef: /pages/dimensional-analysis-of-models-and-data-sets-similarity-solutions-and-scaling-analysis
+  weight: 10
+- identifier: 1098e598-7135-4938-92e8-252d99513c56
+  name: 'Essay 2: A Coriolis Tutorial '
+  pageRef: /pages/a-coriolis-tutorial
+  weight: 20
+- identifier: 7ce51128-4c2e-4275-9a38-123c00367a1b
+  name: ' Essay 3: Lagrangian and Eulerian Representations of Fluid Flow'
+  pageRef: /pages/lagrangian-and-eulerian-representations-of-fluid-flow-kinematics-and-the-equations-of-motion
+  weight: 30
