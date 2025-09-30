@@ -5,6 +5,8 @@ draft: ''
 file: /courses/res-12-001-topics-in-fluid-dynamics-spring-2022/mitres_12_001_essay2_p3.pdf
 file_size: 7457130
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

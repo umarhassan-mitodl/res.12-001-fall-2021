@@ -43,7 +43,8 @@
     "website": "res-12-001-topics-in-fluid-dynamics-fall-2021"
   },
   "course_title": "Topics in Fluid Dynamics",
-  "course_description": "This collection of three essays was developed from the author's experience teaching the course *Fluid Dynamics of the Atmosphere and Ocean*, offered to graduate students entering the {{% resource_link \"d81b4c8c-6c75-4539-864a-0089eeb3f35c\" \"MIT/WHOI Joint Program in Oceanography\" %}}. The essays are:\n\n1. Dimensional Analysis of Models and Data Sets: Similarity Solutions and Scaling Analysis,\n2. A Coriolis Tutorial, and\n3. Lagrangian and Eulerian Representations of Fluid Flow: Kinematics and the Equations of Motion\n\nThe goal of this resource is to help each student master the concepts and mathematical tools that make up the foundation of classical and geophysical fluid dynamics. These essays treat these topics in considerably greater depth than a comprehensive fluids textbook can afford, and they are accompanied by data files (MATLAB\u00ae and Fortan) that allows some application and experimentation. They should be suitable for self-study.\n\nThe 2022 revision of \u201cA Coriolis Tutorial\u201d comes in five parts. Part 1 studies the basics of rotating reference frames and the Coriolis force, as before. Four new parts examine topics that are central to Geophysical Fluid Dynamics: Part 2: Geostrophic adjustment; Part 3: Beta effects. The next two parts are increasingly oceanographic: Part 4: Wind-driven ocean circulation; and, Part 5: The seasonally-varying Arabian Sea.",
+  "hide_download": true,
+  "course_description": "This collection of three essays was developed from the author's experience teaching the course *Fluid Dynamics of the Atmosphere and Ocean*, offered to graduate students entering the [MIT/WHOI Joint Program in Oceanography](http://mit.whoi.edu/). The essays are:\n\n1. Dimensional Analysis of Models and Data Sets: Similarity Solutions and Scaling Analysis,\n2. A Coriolis Tutorial, and\n3. Lagrangian and Eulerian Representations of Fluid Flow: Kinematics and the Equations of Motion\n\nThe goal of this resource is to help each student master the concepts and mathematical tools that make up the foundation of classical and geophysical fluid dynamics. These essays treat these topics in considerably greater depth than a comprehensive fluids textbook can afford, and they are accompanied by data files (MATLAB\u00ae and Fortan) that allows some application and experimentation. They should be suitable for self-study.\n\nThe 2022 revision of \u201cA Coriolis Tutorial\u201d comes in five parts. Part 1 studies the basics of rotating reference frames and the Coriolis force, as before. Four new parts examine topics that are central to Geophysical Fluid Dynamics: Part 2: Geostrophic adjustment; Part 3: Beta effects. The next two parts are increasingly oceanographic: Part 4: Wind-driven ocean circulation; and, Part 5: The seasonally-varying Arabian Sea.",
   "department_numbers": [
     "12"
   ],
@@ -53,6 +54,7 @@
     "content": "c432143f-a01c-4e3e-8a2f-5129bc5640ac",
     "website": "res-12-001-topics-in-fluid-dynamics-fall-2021"
   },
+  "hide_download_original": null,
   "learning_resource_types": [
     "Open Textbooks"
   ],

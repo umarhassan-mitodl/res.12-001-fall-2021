@@ -5,6 +5,8 @@ draft: ''
 file: /courses/res-12-001-topics-in-fluid-dynamics-spring-2022/geoadj_2d.for
 file_size: 62113
 file_type: application/octet-stream
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''
