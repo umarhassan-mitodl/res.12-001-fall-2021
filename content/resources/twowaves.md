@@ -5,8 +5,6 @@ draft: ''
 file: /courses/res-12-001-topics-in-fluid-dynamics-spring-2022/twowaves.m
 file_size: 3081
 file_type: text/x-objcsrc
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

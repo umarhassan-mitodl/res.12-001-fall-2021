@@ -5,8 +5,6 @@ draft: ''
 file: /courses/res-12-001-topics-in-fluid-dynamics-spring-2022/ga2d_u_lat20.mpg
 file_size: 916772
 file_type: video/mpeg
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''
